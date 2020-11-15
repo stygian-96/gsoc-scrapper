@@ -1,12 +1,12 @@
 const axios = require('axios')
 const cheerio = require('cheerio')
-const fs = require('fs')
+const fsp = require('fs').promises;
 const path = require('path')
 
 const list = []
 const orgs = {}
 
-const getTitle = async (url) => {
+const getTitle = async (url, n) => {
     const {data} = await axios.get(url)
     const $ = cheerio.load(data)
 
@@ -36,8 +36,14 @@ const getTitle = async (url) => {
         list[i-1].techStack = list2
         console.log(list[i-1])
     }
-    orgs.list = list
-    fs.writeFileSync(path.resolve(__dirname, 'orgs.json'), JSON.stringify(orgs));
+    let fileData = await fsp.readFile(path.resolve(__dirname, 'orgs.json'));
+    let obj = JSON.parse(fileData);
+    obj[`list20${n}`] = list
+    await fsp.writeFile(path.resolve(__dirname, 'orgs.json'), JSON.stringify(obj));
 }
 
-getTitle('https://summerofcode.withgoogle.com/archive/2019/organizations/')
+// for(var k=16; k<19; k++){
+//     getTitle(`https://summerofcode.withgoogle.com/archive/20${k}/organizations/`,k)
+// }
+
+getTitle(`https://summerofcode.withgoogle.com/archive/2019/organizations/`,19)
