@@ -42,8 +42,6 @@ const getTitle = async (url, n) => {
     await fsp.writeFile(path.resolve(__dirname, 'orgs.json'), JSON.stringify(obj));
 }
 
-// for(var k=16; k<19; k++){
-//     getTitle(`https://summerofcode.withgoogle.com/archive/20${k}/organizations/`,k)
-// }
-
-getTitle(`https://summerofcode.withgoogle.com/archive/2019/organizations/`,19)
+for(var k=16; k<=19; k++){
+    getTitle(`https://summerofcode.withgoogle.com/archive/20${k}/organizations/`,k)
+}
