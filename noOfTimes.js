@@ -1,6 +1,7 @@
 const fsp = require('fs').promises;
 const path = require('path')
 
+// Count the no of appearance of orgs in GSOC
 const getArrayofTitle = async() => {
     const list = []
     let fileData = await fsp.readFile(path.resolve(__dirname, 'orgs2.json'))
