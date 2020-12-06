@@ -62,14 +62,25 @@ const getList2k16_19 = async () => {
         const len = element.length
         //console.log(element)
 
-        for (i = 1; i <= len; i++) {
+        for (i = 1; i <= len;i++) {
             //title
             const title = await $(`body > main > section > div > ul > li:nth-child(${i}) > a > md-card > div > h4`).text()
             //link
             const piece = await $(`body > main > section > div > ul > li:nth-child(${i}) > a`).attr('href')
             const link = 'https://summerofcode.withgoogle.com' + piece
-
-
+            var orgLogo = await $(`body > main > section > div > ul > li:nth-child(${i}) > a > md-card > org-logo`).attr('data')
+            //console.log(orgLogo)
+            orgLogo = orgLogo.slice(16,orgLogo.length)
+            var orgLogoUrl = '';
+            for(let o = 0; o <= orgLogo.length;o++){
+                if(orgLogo[o] === "'"){
+                    break
+                }
+                else{
+                    orgLogoUrl = orgLogoUrl + orgLogo[o]
+                }
+            }
+            // console.log(orgLogoUrl)
             //get orgs techs
             const { data } = await axios.get(link)
             const nP = cheerio.load(data)
@@ -117,7 +128,7 @@ const getList2k16_19 = async () => {
             }
 
             const list2 = []
-            list.push({ title, orgLink, projects })
+            list.push({ title, orgLink, projects, orgLogoUrl })
             for (var j = 1; j <= len2; j++) {
                 const el2 = await nP(`div[class="org__meta"] > div:nth-child(4) > ul > li:nth-child(${j})`)
                 const txt = await el2.text()
