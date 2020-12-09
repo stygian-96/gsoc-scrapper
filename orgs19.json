@@ -17,6 +17,7 @@
                     "projectCode": "https://gist.github.com/Mehigh17/75a510cdac567a320d6ed1ed8cd43c5a"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/Sj64WsDgYCakVRWlv7ltHVelsazMPX42BJtxPvgX5FKqsc8qTtDEEW94NojMTmrB4kXsjCEqta6kZbks5awbajBNkfGGQw",
             "techStack": [
                 "javascript",
                 "android",
@@ -47,6 +48,7 @@
                     "projectCode": "https://github.com/nexB/scancode-toolkit/wiki/Google-Summer-of-Code--2019"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/UzeA0lR3xzO5W2glTP_1xrkx0D0TARjOtD16xsx8Ci28kdYfGhHU4EnhOTaFq1zD6K5o5OAjy47e9oAZWmC3kb-ZNUzlsw",
             "techStack": [
                 "python",
                 " javascript",
@@ -102,6 +104,7 @@
                     "projectCode": "https://aerospaceresearch.net/?p=1791"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/gwcpY-CEBYdudVrkRlFY8NoZrqmSRqzYuABAbH0By8g20Rhbm6SWlVCutKar5poFr1ldkS6B1oXYWraR7uE4g2R-SDMVbQ",
             "techStack": [
                 "python",
                 " c/c++",
@@ -139,6 +142,7 @@
                     "projectCode": "https://gist.github.com/bruceyoungsysu/4bf16b6f82daa8117a63f14618324fa4"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/1czpR5YOvFFyaQmLr6y0uEN4jBKMaXZlKoWN64JsMjkaC5ySGpMoBiu3IO4xYrgNJLxEUO3aiFA_YStmVF5B9YDlSnK-Ol8",
             "techStack": [
                 "python",
                 "python 3",
@@ -194,6 +198,7 @@
                     "projectCode": "https://gist.github.com/advir29/97eef3d552997f7b2a58f49f5575e240"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/uPn---A285wRChEDmLTxZrAA76uIJ54vylaXBowYo36QCT4zJQEbpYV4XHxeKf5QnstBXZrszuetY4cukSWfyjANjv4PrzE",
             "techStack": [
                 "golang",
                 "ruby on rails",
@@ -219,6 +224,7 @@
                     "projectCode": "https://gist.github.com/jiradeto/36b28fbc3d2596f218efc98e069786f6"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/Cwk4dJ9BpE_h7WVypVFo4XXiw2qEhf65ftJQ9VZY_t88Fn5niWI_lbdkQUUKqZBCIz_GygpR2hAT0PG5ktF6JqW1jYxM6IEy",
             "techStack": [
                 "opengl",
                 "vulkan",
@@ -340,6 +346,7 @@
                     "projectCode": "https://gist.github.com/makhanovable/4dd44f6f6900ae757f04c773ca97038d"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/vnZyDSkHg8vXeaqv85AbqSY1i01hBkwZxsOS3hJgy7GeFRaXNvUNwamhd2y0pELzJEDoQoZzqdH2zBs_HpC_63clXRxwIj31",
             "techStack": [
                 "scala",
                 "javascript",
@@ -413,6 +420,7 @@
                     "projectCode": "https://github.com/apertium/apertium-weighting-tools"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/jkGCv1mX-aO42tBRYEVBdmQOc41iZqUlVtQB4iXxnA_NHShFqfxCmPaqxpohIKVFUVyAFtGXZR_WOPE_2pnyKxwwyE5d9wg",
             "techStack": [
                 "c++",
                 "python",
@@ -449,6 +457,7 @@
                     "projectCode": "https://github.com/apurvanandan1997/usb_plug_mod_ber/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/xwts0Ad29TlJyTjJOsvhowPD1TcbAneyFYG3gYZieI6-Dcfj5Eqb0fOTJSEokxP0hJZa13SAkmgpw3LMaNXnq7-VCkTDy_fc",
             "techStack": [
                 "fpga",
                 "embedded",
@@ -468,6 +477,7 @@
                     "projectCode": "https://medium.com/@lorenzhofmann.w/6-useful-things-i-learned-from-gsoc-1738c7471a90"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/Wz1qKokD67uvVuu1FCoNqyl7dmYk19VC0UzGdQS1heA8QlzKQpzgJZ_DAD1g691sAQ7T_njEX_gP1ZnolJa0KytP6t1_Fds",
             "techStack": [
                 "openapi",
                 "grpc",
@@ -493,6 +503,7 @@
                     "projectCode": "https://github.com/BashPrince/GSoC-2019-Final-Report"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/z74fHr3LPfvg_jjweIBxyvktfQUyl_b-wg_qYFNPqw7Yl7uMJiUKOzFf3Knhkf-a6RbMw0wF0c8bebFbYXXQ_BD61JiDwA",
             "techStack": [
                 "c++11",
                 "python",
@@ -534,6 +545,7 @@
                     "projectCode": "https://discuss.ardupilot.org/t/gsoc-2019-mavproxy-development/46411"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/rOdX6gJyolzXqNbwLUp53kRuHi1DGo22jHcPapOU1Xr0ssyYkd8Utg4JAe5NjTsWhT_QbylsZD3pWHQQ6oIxUCd3oqaNU0A",
             "techStack": [
                 "drones",
                 "python",
@@ -559,6 +571,7 @@
                     "projectCode": "https://docs.google.com/document/d/1NPOxMqUoulye5gyqLpMkonhGjsHzviiMDb29h3nPxSQ/edit?usp=sharing"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/9uuJLr6wkmtIJu_M3jGvQdYaW1WlYHnp1PLar1ppxtBrNZSUtYXwNAzOd1Hj5_e-z6za7iwjYhX5Hb35RVPZYo0jotpTVG4",
             "techStack": [
                 "windows",
                 " c/c++",
@@ -589,6 +602,7 @@
                     "projectCode": "https://medium.com/@denisobrezkov/xen-on-beagleboard-x15-a517ea7d9bb"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/S3-YcNzqIVWcP77RWr1Q2UEp5TGUG1TP9LuIX9hu-92_V2k3HNzavaZREKLa1HZQ1jp_hDHvQSL8Avu7HQf8_EiLKVIv_1Q",
             "techStack": [
                 "raspberry pi",
                 "linux kernel",
@@ -620,6 +634,7 @@
                     "projectCode": "https://gist.github.com/shubhscoder/3055f976bfe7ef3d3b11141dc34addc0"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/h3ZbO_8msyWmFXvcts6xk9bJlHL9mjVlBkVsMaKORIvz32yfbpihILKKVBR3QmrOLfEYRnVgpt92mD_YIQLsi3wy7t2YuM6x",
             "techStack": [
                 "ruby on rails",
                 "meteor.js",
@@ -657,6 +672,7 @@
                     "projectCode": "https://gist.github.com/tushar-97/c61cb48ae63f781275f95809768618ab"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/L9dxdQ7Eo52IlZ3VEBEuT-_BSXZsymBaqOYXd1Xwl7bDpAlarV-zq26DQRusc5_x7U-IIwcRg7BRPIOEQJS7gdiZ4s2kmPc",
             "techStack": [
                 "python",
                 "java",
@@ -712,6 +728,7 @@
                     "projectCode": "https://wiki.blender.org/wiki/User:Zachman/GSoC2019/Report"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/Lt23R1hzNjJ8aIy9PwZIkJRK3CQnYOOKQbc9i6tXH26NSHFlu3yEcWBxHJmj9sRiPK-J7_9JJX9H-fq7agOuTqIlDgg0fuY",
             "techStack": [
                 "c",
                 "c++",
@@ -790,6 +807,7 @@
                     "projectCode": "https://github.com/BoostGSoC19/tensor/wiki"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/3EpHHMkIn4nd9N2z9fmnK2B5SSXJJJrV1XdDCPHXNsCpcSzfi-eS41bvaJ89-_OEsoIZO9KvJAtmg2cMXxTumUFybrEVEQ",
             "techStack": [
                 "c++ libraries c++11 c++14 c++17 c++20"
             ]
@@ -847,6 +865,7 @@
                     "projectCode": "https://blog.librecad.org/tag/google-summer-of-code-gsoc-2019/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/2_-2LuzKuQZM1EHQyrXTwsA906UdIIlwg6E8HXjv241uga70GUVWuZ23OSN74Jwqdgecdp1MjwUndhW0xxFncsWXF-SWrsE",
             "techStack": [
                 "c/c++",
                 "opengl",
@@ -866,6 +885,7 @@
                     "projectCode": "https://elinux.org/Buildroot:ReproducibleBuilds#GSoC_Work_Product"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/N59xgAFazsdFH2FnOyaL3aaTd-ZoZZZXLq3obziwVACJG_7onmUl4dqVdiR0yvk3A-Sci-LgPv_MRfOnFAUl75BQsFqITcw",
             "techStack": [
                 "gnu make",
                 "kconfig",
@@ -902,6 +922,7 @@
                     "projectCode": "https://github.com/pranavtharoor/micm-project-match"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/M-i_91aXoH2l2NYXyyn-IwvAnW4V28-zD4B9cFOOGlIsfAEAr-FUT6lX9q6dHsIhbKNrtirCr51ev7VufLc6PTgH58e-Abqv",
             "techStack": [
                 "python",
                 " r-project",
@@ -969,6 +990,7 @@
                     "projectCode": "https://docs.google.com/spreadsheets/d/1AW72ddVmBn-DZNwN_PvHk1kCoIZerOfvBXUW_P6ynuo/edit?usp=sharing"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/1-EsxyNjo3Fig08LTODLazPxD4WG42G87ij2UkiyjPuelg0LEBLLWHk-1Mg1GQgnEISoz73XHtg5a_fxx90aYUI9xTPNhZQ7",
             "techStack": [
                 "java",
                 "android",
@@ -1017,6 +1039,7 @@
                     "projectCode": "https://github.com/doori/GSoC-submission"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/1pPx5Ix5QrXY3Xke309hmpBYepcqKEwwhQV2mm-0sdJboXwlOR9wsViV4BjRmFSva4K6YjQ1UOXz_vtVtSUarLu5mlcFxjw",
             "techStack": [
                 "java",
                 "javascript",
@@ -1048,6 +1071,7 @@
                     "projectCode": "https://docs.google.com/document/d/1zjSUkU-EBZzyDU8KSKyaSBsTRT8EOovo_lDXFQzBilI/edit?usp=sharing"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/UDjaIURrpVtpk7YnU7UdD7cJ12YQR7V1FP-g7QfxhuqwAB3aV4xRIixeKgR3OATLMVJwndX6r2ANXdiUsNJJS7NxvVs5tk0",
             "techStack": [
                 "reactjs",
                 " python",
@@ -1121,6 +1145,7 @@
                     "projectCode": "https://github.com/rclone/rclone-webui-react"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/__hLPjtINbtJiPs4vEy7RaC_cNRXCni4LpWbjg2fxVkG_WJUa4LI23ObCe5mhWWq4X-AtmeQ8nPaL_zQCnBANGrfuz5_d2g",
             "techStack": [
                 "ai",
                 "c",
@@ -1158,6 +1183,7 @@
                     "projectCode": "https://gist.github.com/barbaraDorame/86fd838f851bec4d0071e208272be045"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/vplyl10ixfuH-Cq_Ffvb7BE7bzJu9ZW-cToqg5EYPGRQSKPjktK_Dbb6NEs8tYVJvQmWskW8SKWOhH_iTZ4aMqvCTK4LTA",
             "techStack": [
                 "python",
                 " javascript",
@@ -1344,6 +1370,7 @@
                     "projectCode": "https://gist.github.com/agarzaro/6bcf2f8e75ef2a71204601d23c245b33"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/P3--g9cdPmD3waHvXc1AnVCOyisy-12VCkUXhPt2Iopx02YeDf-_tiIVLySFpe3C5AO41ib3JTNOvVnYrbIumEyJM_AVNQ",
             "techStack": [
                 " c/c++",
                 "python",
@@ -1411,6 +1438,7 @@
                     "projectCode": "http://www.necipyildiran.com/other/gsoc19-final-report.html"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/MQZ_mGR8lJFwcxQlqvCkU3iNLrOnXFXMgqAw-3WwOmg2s5ttjhObkj50LJ7v0tWl3EH0sYE2Q-owd2-bGGlGeQPK9ws7Vw",
             "techStack": [
                 "c++",
                 "git",
@@ -1447,6 +1475,7 @@
                     "projectCode": "https://inishchith.github.io/blog/2019/08/coding-period-3-11.html"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/xB9WNGsOxmCeRSCjwZtbnzHt531KjirGFI6HLebML0NwCI2a8b2dDaIgWGOYPg7zMR2U49gBrGm20MPQlJT-_I2Z_uJcFeEe",
             "techStack": [
                 "python",
                 "javascript",
@@ -1484,6 +1513,7 @@
                     "projectCode": "https://gist.github.com/krishnadey30/046d21a16ff0f2f19bc4d4a608a608d6"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/HPYTh9qFr2qhIRujY_U5sSD9bMivVPoZGpDdacOO5-FfC0vrezAheYCZWWo15gjUybYxGher6sWxGvp3IFXDaQoc7SEAAyU",
             "techStack": [
                 "chapel",
                 "python",
@@ -1527,6 +1557,7 @@
                     "projectCode": "https://docs.google.com/document/d/1dV8IlCO1eS8kxrucGrl9SMGi6jZkVHUIdI2rMVNraOk/edit?usp=sharing"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/5ErimGyYmEzZ6O9Bsnb58lqjEO8ONiHxQG5BwLHDo_mr6Tl7u_srAnggeDc6g7btqhMJtYzDS8i07g4-zSKqqPK6HNMpKas",
             "techStack": [
                 "java"
             ]
@@ -1554,6 +1585,7 @@
                     "projectCode": "https://gist.github.com/Amansingla97/1d91f8a5a17a40c55ac127c7a4cc4108"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/Jo8FsfS64dl85ZRuxlqOUgpea8xAFvPmwtq0WmoLLOOSF4nyiIUKEdig4j4CRFishIJOiE8y4769kye8Y7QddY_SddHQT7bd",
             "techStack": [
                 "rails",
                 " javascript",
@@ -1579,6 +1611,7 @@
                     "projectCode": "https://gist.github.com/prondubuisi/5f2ac383046a403b10fe773547e76951"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/MOmvXxuWLkRt8P5IFFXmMkZEuLAitIYWg7jwhBy3od3sD9meTF0DbTmummVANpl8Pxp169nzQA5BJq8jhoBtmELaEAsBfw",
             "techStack": [
                 "php",
                 "mysql",
@@ -1615,6 +1648,7 @@
                     "projectCode": "https://fabriciolayedra.github.io/vinlap/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/mFF4t3hpgbKBiyg5vaoj4FYXmKP-MfXQxeql6TJh_7Y4zJiT_rEWhs5phw8Hkchf5nmXDMC7VzQ0y5Da-X2s363V8DoOntVD",
             "techStack": [
                 " python",
                 " javascript",
@@ -1716,6 +1750,7 @@
                     "projectCode": "https://github.com/ihac/acl"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/UdE8UN_I3MDuEhcWoIwYwH0n42658q9damMj-kfljyIkrirJj36kZXSHzLZgYsyLKv0ziHXz5Z7vXCqi31WumhfsU-pWlVg",
             "techStack": [
                 "kubernetes",
                 "golang",
@@ -1752,6 +1787,7 @@
                     "projectCode": "https://medium.com/@khalidriyaz/google-summer-of-code-2019-with-cloudcv-a16927f57249"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/AX5Hdgop-vnztHnsAP7UReydRfgM_TLX-B50XZhwjXGLB_5nVJ2cnshjgDYzVvM6dPE2HT7Dk87tyblg00VGoTCRuBBGDcw",
             "techStack": [
                 "python 3",
                 "django",
@@ -1825,6 +1861,7 @@
                     "projectCode": "https://projects.coala.io/GSoC/2019/StatusReport/PrajwalM.html"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/VH20d3Jv9G3yLn_Vi_32cRzPpaVKqv9K_1grTm6KkhsBR-A42g9r6jJJEN2DTIE-dZolij9NK_ttUE-YSV0f3O3wu67mQQ",
             "techStack": [
                 "python 3",
                 " java",
@@ -1868,6 +1905,7 @@
                     "projectCode": "https://github.com/HelikarLab/ode-app"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/chbiX_Gn0VnYNrSHA74K65Mi6iNK00U_cMZE-zqcDED8vHhotLL1ciDcLUGYYrLGCrBb8RspJTMBrXcErjBeN0qBi2SHOTc",
             "techStack": [
                 "javascript",
                 "react",
@@ -1898,6 +1936,7 @@
                     "projectCode": "https://blogs.coreboot.org/blog/2019/08/22/gsoc-coreboot-coverity-final-update/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/ZibmNYRPGSx2RGiQYXALTZVtQsv6sDV0_TYARN9ZQv210nszFHEP9-V3DCmx5SYbM5FAhvea1psj3UOLZKQSheOjriMBRQ",
             "techStack": [
                 "c",
                 "assembler"
@@ -1938,6 +1977,7 @@
                     "projectCode": "https://gist.github.com/ahmadbilaldev/ebddbee32cc469dc9c08c3f403f0b9cd"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/on3w8ghrh8N2hkv7rGYYjs89xQf1pr2lbpnGh1PpsEYrnKYswcyGhvUiYIazGYz0wPuF2QPFRZXi45BuW0r77JQFAu1o8e_u",
             "techStack": [
                 "javascript",
                 "python",
@@ -1957,6 +1997,7 @@
                     "projectCode": "https://dubeyabhishek.github.io/GSoC19CRIU/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/YsOZ2021mAr7WuRRs_ePv8VrZVY8Wn_Hek014QiegNtxUJOqZZlACstVXLn4-DB4RS8dRitxVZsmhylQaeMQDAAzcrEBbQ",
             "techStack": [
                 "docker",
                 "linux",
@@ -1999,6 +2040,7 @@
                     "projectCode": "https://github.com/rillian/2019-gsoc/blob/ed65a8e/README.md"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/hYQ7olte-165Mu4GnFYkGiBnL6EKhkwjR21sThikTsVeeANTKU1j1dVk9I5Ot73lAYfuppJONtarpqSjRUmcz_NNfM6h_A",
             "techStack": [
                 "python",
                 "php",
@@ -2042,6 +2084,7 @@
                     "projectCode": "https://github.com/Vild/GSOC2019/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/b04WeVW0h96z133i1gXY0U1i4idW2u4KjNldYHreJWHHc8oNNBrGepTW4Stc8Grc8qnqWPul8GWBRHI0nVfmjTjvP2bAo2w",
             "techStack": [
                 "dlang",
                 "linux",
@@ -2091,6 +2134,7 @@
                     "projectCode": "https://github.com/dbpedia/linking"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/2M1KCI7sluN9X3KBCfJr7GFGEfvudqc0QPU4zvzhsEpuGnOJTCLNKNs1yEu0bXNcGAdWltVWsFddB556nxuzPHApPOJnhA",
             "techStack": [
                 " apache spark",
                 " python",
@@ -2134,6 +2178,7 @@
                     "projectCode": "http://utkarsh2102.tk/debian/2019/08/26/farewell-gsoc.html"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/rZ5PETdSZt8VIRfhOyNbFjS-J3B4eQ8T_sdP9xeixAto9L4Rh6MNsVbKnpAjMT1WZ4247gNxe-KQ7rPT0gTgu2EofraNB0g",
             "techStack": [
                 "git",
                 "python",
@@ -2165,6 +2210,7 @@
                     "projectCode": "https://medium.com/@aymennaghmouchi/my-experience-about-google-summer-of-code-2019-d73907a5d55b"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/cpRI0hsUYnvwREKwSUsiJsUs7izGn-Ym8XZmDrWLkF2A_RGZD4RYQOEf0qB0ZDbXnO6C4iG9ZLglK752WbjwbvB0K10_54k",
             "techStack": [
                 "python",
                 "go",
@@ -2196,6 +2242,7 @@
                     "projectCode": "https://docs.ushahidi.com/platform-api-ussd-service"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/Lg2YPJjmkfnUdEHwBKFLftUyeWPPLZXkMJAKGHLZN16RaKmUxLeXcucIWM_bEiHZ2btF-yxLQBDo5swwnWjbkUSkOVJ_b5Y",
             "techStack": [
                 " android",
                 "java",
@@ -2221,6 +2268,7 @@
                     "projectCode": "https://parthvpatil.github.io/blog/gsoc"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/HPyDH5ELi9kh47ZDnG6kEoh0Q2n9sfzEybtJzDrL0iuexaYaNbM0r6o-qeLIbETzGLEEUwY5PsK522KNUH_4LBBvMAqycN4",
             "techStack": [
                 "python",
                 "django"
@@ -2243,6 +2291,7 @@
                     "projectCode": "https://www.drupal.org/project/wotapi"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/G27eEwfWLz0XH0YAlKpAntib0k6ZwTLHo3ThGDIT8LxB7RuBB2WM0xlSwch6J4FEwBYTzA5BehDKHRjV-y8xexoy5xN3vGs",
             "techStack": [
                 "php",
                 "symfony",
@@ -2268,6 +2317,7 @@
                     "projectCode": "https://github.com/axiom-data-science/OrcaCNN"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/ZXOtj8mQ7DQDnvENKTCjaBDFpnoMo_1bx8aCoqcEfCJ9glclzmsl52FQcBSgDHSowB5BaFqKynsSQwETWUFb2IkqGeSb5Z4",
             "techStack": [
                 "python",
                 "kubernetes",
@@ -2311,6 +2361,7 @@
                     "projectCode": "https://github.com/containers/libpod/pull/3576"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/ZKRaA7XeOIIekS_DWx7zhEWCBl3saDGbGx0mDDefDFhUreM87bH6XMdf9NZ7fvyQBRTEzpTYonXbKriJmzjSZiHJewJJMuo",
             "techStack": [
                 " python",
                 "html/css/js",
@@ -2360,6 +2411,7 @@
                     "projectCode": "https://cldfire.dev/blog/gsoc-2019/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/b0MUSCWpK3CG7mxoinpubg6uJ8SX5yUelExG0pdVPTHdFoJuZXlMzRUBHgjmTLnkCBViiasSit9qDQnTsQa5Ma5M7fVT4EQ",
             "techStack": [
                 "c99",
                 "assembler"
@@ -2382,6 +2434,7 @@
                     "projectCode": "https://medium.com/@rahul2240/gsoc-with-fosdem-259f9b1a1fab"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/WGA5vsI5s6wgv73iYJG8DD4Q6orAln6Q7N5mMv0vG-Rtun9JgRaFq2evxGkb23WbcofNtrj5MogvVtzDou2VfAzpvctWZ0k",
             "techStack": [
                 "javascript",
                 "grafana",
@@ -2479,6 +2532,7 @@
                     "projectCode": "https://gist.github.com/alok760/8c18d4f40556b96e665b2d82615d124b"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/eb97BbxNDI7bfQKsiBJ2TTsRkF1m2VdH5hM9iwfFKwLigODhpGXwGj3Gu3s4jmRQZ2kCGVSCdeVBHboGRSQ3BBhCmY-t",
             "techStack": [
                 "javascript",
                 "python",
@@ -2510,6 +2564,7 @@
                     "projectCode": "https://github.com/vivekaindia/fossology/wiki/GSoC-Final-Report:-Agent-Spasht"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/TIIApr9xTiQU0Ev92hWjH08-yzSFkR6iyaIYqHqSEHWZ3sjp7tMaLBwLSYADUNzOLyG4xdgtThs6Rb2eRq3XKzO1PVo4xkAk",
             "techStack": [
                 "postgresql",
                 "php",
@@ -2535,6 +2590,7 @@
                     "projectCode": "https://drive.google.com/open?id=1xbQh1Bdi77xg7DTJuT_qeFr7-hrrcKVY"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/ZNpiDlrU06rcRiCLBbVZgFyD2Fl-bXS0ZI6KupCaGPZ2hnYza93IAGAz-XLX4wmedbhoigCVcE2eADhpuA8LLxaQzwDvrV7U",
             "techStack": [
                 "php",
                 "mysql",
@@ -2589,6 +2645,7 @@
                     "projectCode": "https://zachzzc.github.io/gsoc-ariane/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/VKjIFNilR46o1ggf6ZKtjnr6SZ0Avw-fiJ8bxcz_bjfbRLPxlFlyYZ8hjWauCHG9yI291KANurLZ7_bPWKJelxMRvOT1nic",
             "techStack": [
                 "verilog",
                 "compiler",
@@ -2638,6 +2695,7 @@
                     "projectCode": "https://github.com/pavetheway91/freebsd"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/yEeFwOxLzOzaFIavW9jxJPAztWhkdPQiOX_RbdMTXJS8I5qTXXM_mlzjSB6leld4nCZ9eeLhUX6uqLS5KhAD5YfLGdRZGG0",
             "techStack": [
                 " c/c++",
                 "llvm",
@@ -2669,6 +2727,7 @@
                     "projectCode": "https://gist.github.com/GeVic/75889ae2728f6dee0a490166ff8e2271"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/ZuhXbkemVr3CnOwJh-TNkve7yq4y-2bsopVx3d4MIcteBjc_g-PB44AX7dUmVYorLwH0Hd2ryj06lqwUgVwp-kZMiZRqBQY",
             "techStack": [
                 "c",
                 "gnu make",
@@ -2742,6 +2801,7 @@
                     "projectCode": "https://blog.freifunk.net/2019/08/26/bmx7-wireguard-tunneling-final-report/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/FZkedIrNYN57ejYTPEe6ErNWsRw69VwIukQESfOTYKvmbT8xr2xR08k7_nHTUKDlknR1xJnCK61gisbHvRF5-Xyuot_yWM0",
             "techStack": [
                 "c",
                 "python",
@@ -2773,6 +2833,7 @@
                     "projectCode": "https://github.com/EnsemblGSOC/compara-deep-learning"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/p8PJcwnPwpVUuuesrDQkQxj_TpubhtovFLmyAfwpbnWU28tgkvewYzdXqob_BY0Uh0_061o-IdAYODgEyjUZcthyncDrnw",
             "techStack": [
                 "perl",
                 "mysql",
@@ -2798,6 +2859,7 @@
                     "projectCode": "https://at.projects.genivi.org/wiki/display/PROJ/Summary+of+the+Work+Done+in+Google+Summer+of+Code+2019"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/ZIkVBgPt74PhZquMA2JwS3soJhYecxQCw9vd2pb1rbM2CTCITvcRvswGS9mb0atbWMAE4id3lijxh8H5mfUf4OMMHE_-Fio",
             "techStack": [
                 "yocto",
                 "embedded",
@@ -2822,6 +2884,7 @@
                     "projectCode": "https://wiki.gentoo.org/wiki/Blas-lapack-switch"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/YCUQ2Cd1LTUz1FYk0GyPoxMcyWYWdy5NAkDIkNgO5_KgxiEV_0NLHFbVLWXduH0PMHyq61668cRZUfts0zhVvMuYMu1PPS_I",
             "techStack": [
                 "shell script",
                 "bash",
@@ -2847,6 +2910,7 @@
                     "projectCode": "https://matheustavares.gitlab.io/posts/gsoc-final-report"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/YwBy-e13kJJZtCO5ZGC_k3kqyxUdCdC5_antSd8YC_KJstEJmxTNUBKdBbonbqI9IBFJPDGjqvs_9TG_XN2GQihlDsHY-NQ",
             "techStack": [
                 "c",
                 "shell",
@@ -2888,6 +2952,7 @@
                     "projectCode": "https://gist.github.com/vaniisgh/02af3ab8233fb7b6ac9314df0c3716f7"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/FtZhkngpLNUuBbwAzlmo_hgnOF7HRl-oCvzquExq-s2QSD4XQb0cii7TgjC43-4EOLM-PjvoJRXiIdjrnaDWUCeQtyGGek8",
             "techStack": [
                 " java",
                 "mongodb",
@@ -2947,6 +3012,7 @@
                     "projectCode": "https://yetisgnomeadventure.home.blog/2019/08/20/gsoc-2019-final-submission/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/hF8LUUxFgkWGOAUVP3sVQaM0rF2mb5_osF09q3oxgJ4xaJjjMPc5dLSBXYbMeFsr0qUP5npGzkliTxRA0CULFJw06SqGVfw",
             "techStack": [
                 "c",
                 "javascript",
@@ -2978,6 +3044,7 @@
                     "projectCode": "https://gnsssdrgsoc2019.wordpress.com/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/rm5_1M3xAMkLDUs4tsLAGm0bgWw4-z6Tv_iYVgM05OecLt2mwfnZKExUAkeEpHC0zo3sTFEuz1sQHuVM0YIPudKeYiqyKxc",
             "techStack": [
                 " c/c++",
                 "c++ libraries c++11 c++14 c++17 c++20",
@@ -3027,6 +3094,7 @@
                     "projectCode": "https://gcc.gnu.org/wiki/ParallelGcc"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/AvRDHZL8Z6C-6q76KTaiVBIBj922VgNIfG9DYT1GyMxBraCCWfjcP-3E9rvQoU4ITpOGhw66sicfVrQ50u-ve7xWyG8KAA",
             "techStack": [
                 " c/c++",
                 "gnu autotools"
@@ -3043,6 +3111,7 @@
                     "projectCode": "https://berserker1.github.io/final-gsoc/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/W5_HfRhGy7eul5tQVI7otjo9HI3j-18nGyGjDs0gBcGjBX4KDvaM0sMLanIiv9IeIaIDKqdaVxSGWEAOcyCyuUO0BF5lmA",
             "techStack": [
                 "python 3",
                 "email",
@@ -3054,6 +3123,7 @@
             "title": "GNU Octave",
             "orgLink": "http://www.octave.org",
             "projects": [],
+            "orgLogoUrl": "//lh3.googleusercontent.com/OYt6T_o2SjPfsvFK-zUxbpXlOwiBEcKCuqHxzGrA-l0ZvXWdR-I57WLKrtD3HAEbzPK613s03S3dXSR_NyTSIPdcfzqwRo0",
             "techStack": [
                 "c++",
                 "hg"
@@ -3076,6 +3146,7 @@
                     "projectCode": "https://github.com/B0WEN-HU/gr-verilog"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/1il5jt_VqD1zLZ0LU_VC_-IgS9p3q_69VP-o54wnLLDg-LTWk0iW_VBgWUt2RvWp0BiNJIdFo8gR4c80-A9elb_3Tw3HMVw",
             "techStack": [
                 "python",
                 "c++",
@@ -3136,6 +3207,7 @@
                     "projectCode": "https://gist.github.com/psuhas77/c52373fa34a1b76bf87fc04778f0ae12"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/p79xQJfMbUcjMblnlksEE3hWmN9BUMt43wyB1HdYlDowIoaJ4H48-UbjcoWoror3_bzz7JWcaxtGEWgWWeiOSlV7QsNLdA",
             "techStack": [
                 "c++",
                 "gdscript",
@@ -3161,6 +3233,7 @@
                     "projectCode": "https://spacevstab.github.io"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/YjxCIySEg1WiW3KN0Ap9rId0TSwh_V3NPx7zxuGN_IUzyKyOrnnBB-WzUmSdFaO6WoxzFUn5NQEMQIhsv_qtvS_GSjwLGGE",
             "techStack": [
                 "python",
                 "cuda",
@@ -3180,6 +3253,7 @@
                     "projectCode": "https://www.haiku-os.org/blog/rajagopalan/2019-08-15_gsoc_2019_final_report/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/B49_ubjA_EFN73Y4M3zvrrNEwcR1sVjPrAu5dQWOMRmTIA1suYf1jYILPKA7GF_kzVaFG2BnCW1ul1uJ1t1lKISxU3h8a7U",
             "techStack": [
                 "c++",
                 "unix",
@@ -3283,6 +3357,7 @@
                     "projectCode": "https://github.com/airalab/hs-web3/pull/93"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/YF7RimCX2v6zOxdZo9DtD1AmckZGvcr-NRWfE6eQMDnMBAonsyoCuGslAiJQyjtQ-Itu5mdUK5LQtgllLrD6prYZJc9wvQ",
             "techStack": [
                 "haskell",
                 "ghc",
@@ -3308,6 +3383,7 @@
                     "projectCode": "https://guttz.github.io/gsoc19/2019/07/24/hydra-ecosystem-gsoc19.html"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/cj55eWwBVQDSIVfgdVKjJ1jv5mqGgn-FAcGRV3T4uD0cIpr8ur6UvUS_DSYkBuMONr8QN4Fxv9L1dm9mv-ctzuV_v8aQbPCE",
             "techStack": [
                 "python",
                 "redis",
@@ -3423,6 +3499,7 @@
                     "projectCode": "https://gist.github.com/yijie0727/b2b9d2964d2b81fd682398db330c161f"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/CnTjY4E-E1LWF6FpELYYsF6lFvmb3qNUsn7mQA3hoUiClcM4tFhSV87R0T-Gf_hAeRIhgR8BazCeiGPMxkjLCVmUFbP4BLaX",
             "techStack": [
                 "python",
                 "javascript",
@@ -3442,6 +3519,7 @@
                     "projectCode": "https://gitlab.com/vanntile/inkscape-gsoc-application"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/z5GC8jU6hVF0_pm00fgq9JELofqjQO5MArruQILLDLvaSnwr8QFH63h0vbqu1zqVBFODsKPqajzKvhFSYJ5wDGkp0EjhBeZT",
             "techStack": [
                 "svg",
                 "css",
@@ -3461,6 +3539,7 @@
                     "projectCode": "https://gist.github.com/b-pos465/f7981eb795c8e2360e36c1afd684c3cd"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/Y79uFbhGMoSQzQEEqzsDDaVpr-W86qL1Lyu4icc0eFr7FrZ79ccIe8KPeVA3Jr70_E6lfzOABKAJ-44IMeHhswgIesoFRmM_",
             "techStack": [
                 "java",
                 " javascript",
@@ -3486,6 +3565,7 @@
                     "projectCode": "https://github.com/achie27/super-resolution/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/olQHSZdxK1wibPb5poljl4EKIoIibFwasxa6YBEPI9WBvOX_M9RXHE3gHut0ASCnD_NFHVnSsj27oi9Pv4RZNoR0b4Aa_w",
             "techStack": [
                 "video",
                 "audio",
@@ -3535,6 +3615,7 @@
                     "projectCode": "https://medium.com/intermine/gsoc-19-with-intermine-47d0ba96b914"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/nLqUlbCti7mF0bhmRLoB-4bZAICge6ScN_DbYRSz75qSIhEe0heDD-CSwZtKLjYBVYc_lphqiVku5vrZ5z4cXNejC9KZjOE",
             "techStack": [
                 "java",
                 " python",
@@ -3560,6 +3641,7 @@
                     "projectCode": "https://lsingh123.github.io/gsoc19/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/k1-yN8bxBBW1vu3WzArP802tk_kcDCnkS47QGCRFck3dNHdrtquIx6ih4F4IMOun6APpnjsLB9DRUt2Psyj-xH_6BOTbkdo",
             "techStack": [
                 "python",
                 "javascript",
@@ -3579,6 +3661,7 @@
                     "projectCode": "https://gitlab.isc.org/Franek12/kea/wikis/Google-Summer-of-Code-2019-Work-Product-Submission"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/t4JetnWDV6gtqVJnb3C32_US8_31ZDGKBkkFido8yFFSApN01eMe-SrIAF9ZDvU6bZ2Pc7mLlP7VeTRQWv7i3IqfB9Hm6nc",
             "techStack": [
                 " c/c++",
                 "c99",
@@ -3598,6 +3681,7 @@
                     "projectCode": "https://gist.github.com/davidemdot/ca69c21081964d5d56cc18bae68251e3"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/USP3YyjOcR19NL59LSrByU2PFk20uVQQcBy0bdqPFejkEmmkeyPzsUbq7R3ug0kkXaIF8p08up-oYgYlgG6Xu_jX6A1xiA",
             "techStack": [
                 "java",
                 "javafx",
@@ -3657,6 +3741,7 @@
                     "projectCode": "https://github.com/bhaskargupta98/wildfly-elytron-gsoc"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/ktv4t1YDxfaPJwmH0RG33xkaJSIY5aqrCAor8OVSkq6TYdG9gCw5d2Ws3mMZGfRW1KIeYNeeYkdWzpr2zOC4t8taEy4bFQ",
             "techStack": [
                 "java",
                 "golang",
@@ -3704,6 +3789,7 @@
                     "projectCode": "https://theroboticsclub.github.io/colab-gsoc2019-Srinivasan_Vijayraghavan/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/88poxR0FDNdCd0JnayB7TxsI8UjzUHGEMvcap7i7kuDVPVD25S9kLyF7N8IOe_VLrn88gCOgetgkrzEEGm9Jq6yqVhfOX3s",
             "techStack": [
                 " ros",
                 "gazebo",
@@ -3747,6 +3833,7 @@
                     "projectCode": "https://jenkins.io/projects/gsoc/2019/working-hours-improvements/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/N1AGZgN61z10yb5Q6ToiO5lHUhf-UB8ctZuqANx4uFRD9OP8vMufM9vAsDlfhkzlHz7g6uSHB6pbaZCv-VZ_sxyR3ftLFK0",
             "techStack": [
                 " java",
                 " javascript",
@@ -3778,6 +3865,7 @@
                     "projectCode": "https://github.com/a-samoylov/joomla-cms/blob/GSoC_submission/GSoC_submission.md"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/0IZan3slXuh-hf3WGxtSM1uKQGRjsUbQqeNkMagsvfqz02O0p8slFhxr_HloHt3vi1zBL3c0oC0eTUZJyhH9Ue-CPVIRAg",
             "techStack": [
                 "php",
                 " javascript",
@@ -3790,6 +3878,7 @@
             "title": "JSK Robotics Laboratory / The University of Tokyo",
             "orgLink": "http://www.jsk.t.u-tokyo.ac.jp/",
             "projects": [],
+            "orgLogoUrl": "//lh3.googleusercontent.com/V4f6Ny9M9DvdfuMAgmU_c1SHVpdy5ZK1KuTU9mL-2Y_xF2UgLZzXXilamzydEwVKYsfku91UpC2fKvPdOSh0aIFLrA1u_w",
             "techStack": [
                 "ros",
                 "lisp"
@@ -3806,6 +3895,7 @@
                     "projectCode": "https://yoshi-1224.github.io/gsoc-submission/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/WJ__KncTy9P5VPnyC9lvjhwp6MPG1GAW5_Zt3bB6oEZ6RXg45iOhkfLPyPsYDkDvCkz4ftvLxE6wPXAKU16p3jZyYsyJOU0Z",
             "techStack": [
                 "kubernetes",
                 "terraform",
@@ -3951,6 +4041,7 @@
                     "projectCode": "https://community.kde.org/GSoC/2019/StatusReports/DevanshuAgarwal"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/h2sFuqVtqiZ3Lds_50zDUrKn_A8tV6DtAkkvAW3dcPtfccu2iJZqpwkF7g3kR2-Bnk4SQv-o7cjc-y4JWgyowXTZ_oZ1GQ",
             "techStack": [
                 "c++",
                 "qt",
@@ -3974,6 +4065,7 @@
                     "projectCode": "https://medium.com/@aditya.sood/gsoc-2019-work-product-document-cefe9d0b439c"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/K50o_JosdmhgVDEuOg7UujCYJgj8XkA0V8ECzEH6Rr5_QGZDIFTW9DbWSc6Lvqgj356Ta4RRpBQW5tJQskYJOMUxzw6umgJf",
             "techStack": [
                 "android",
                 "java",
@@ -3999,6 +4091,7 @@
                     "projectCode": "https://bitbucket.org/KNIME/knime-sandbox/src/Rytis's_nodes/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/iH0Kbp7-kU_YMY4NSPqhkc8PTJn5BVK3g6o92I7lkcVDNyqB4sWgVd8GKzKPCAak4nlrpUrT6cY73BQl_TfzbbyCcAGGCaY",
             "techStack": [
                 "javascript",
                 "java",
@@ -4016,6 +4109,7 @@
                     "projectCode": "https://github.com/KostasAndrianos/RetroPlayerShaders-GSoC19-Summary/blob/master/README.md"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/aaKLhcIBHjVUTOfv1THA3FyAljtzAfxhXWZc_UKrVgNmN1A7Ef753BxfUudazULdnboLTgyXpKbJl4GzRM0-08FVVy_BB6E",
             "techStack": [
                 "c++",
                 "ffmpeg",
@@ -4059,6 +4153,7 @@
                     "projectCode": "https://victornogueirario.github.io/xdplua/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/VILHvJZQVsPkISd_JSGRyVhh2NIIsF4S2vXDgDI535PFy6Wg0a4Rqt1XRkkP5H1k3wVIX2DjJbHR7E0lCWWn-ipjV2ivxcaN",
             "techStack": [
                 "lua",
                 " céu"
@@ -4081,6 +4176,7 @@
                     "projectCode": "https://gist.github.com/viditjain5598/94d56d90549d6c647972fda909f42f92"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/AD7jbyVRVbLYRL3H3qBGf5OJK4UwX_Qtvooe2unOz5wEStNaZ1pIo95fEwVj2FR5XSc9Ece81wAdeCEmSj2R3lvLPmhf_O0",
             "techStack": [
                 " python",
                 "django",
@@ -4093,6 +4189,7 @@
             "title": "LibreHealth",
             "orgLink": "https://librehealth.io",
             "projects": [],
+            "orgLogoUrl": "//lh3.googleusercontent.com/nH1tK1QplL7izpbqjDORl6AEo6BsJv33FlRKoVg4Oobvui0gl2KTmkmEVsYVdPaV4SIkeW1cXV9HVl0uo65gePxLZlMd-7n6",
             "techStack": [
                 "java",
                 "javascript",
@@ -4141,6 +4238,7 @@
                     "projectCode": "https://gist.github.com/Kaishu-Sahu/aa4fa27dd181b8751952ad8f99370c4a"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/GxgbdPBm1ovhA9bBzfe4S_k_E37ClCheT-HDdUknlajlLeHMLSjUlxwHMZfZEROsozIyxFyS4TCehuwJPO4ChWkRAMJZyw",
             "techStack": [
                 "c++",
                 " python",
@@ -4170,6 +4268,7 @@
                     "projectCode": "https://iliaswrites.wordpress.com/2019/08/13/final-gsoc-2019-report/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/PN6tvJ1oqfS7oDBatXrNS2vxu8bod1l1dPRzitpj_g_gcborV2Vg7rd6utqkC41P_nWfNN4yNZtnQ-ShbDoyrcBUqCdo24w",
             "techStack": [
                 "virtualization",
                 "kvm",
@@ -4195,6 +4294,7 @@
                     "projectCode": "https://github.com/ruig2/KafkaRustCodec/blob/master/gsoc.md"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/I8EEzt2rC9hmeHexCNI2ZUZ31ru9PRPS8H-OZP_mk9ex0Yz9XmBH1XbO4AoCZJr7lR-_9DhOnOkQbBzwAfQGrTG94dCCx-A",
             "techStack": [
                 "golang",
                 "rust",
@@ -4250,6 +4350,7 @@
                     "projectCode": "https://github.com/LiquidGalaxyLAB/PythonLibraryForRealTimeDataVisualizationGSoC2019--API-nodeJs"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/v9Dmwp52mx6MiMx6WSK1O1JL7G-DSg703WfiCXKUMFJfkpgc8RPK766aD_hbEr2Rn2_RWONTgrH9prh9GvnJcLiCIf67GsI",
             "techStack": [
                 "python",
                 "nodejs",
@@ -4310,6 +4411,7 @@
                     "projectCode": "https://preejackie.github.io/GSoC-2019-LLVM/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/f9IH4ktaQw5XMJBgXI5W93irnm46TfPRKQ2UoHChMiiAIrvv5X243vFuLXo5zWJPfodIHX7G6mbwq750seqL31Zy20z-iVE",
             "techStack": [
                 "llvm",
                 "clang"
@@ -4332,6 +4434,7 @@
                     "projectCode": "https://gist.github.com/pauloue/f403e542338f96ae4ac2aa47c266cb5d"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/ypThkrucQO6m-pLzB3Xz-D_fmqtnswRC6jmVEHIl8n-1fbWZQtfdvDOUltTNd-Sd3fQiV6uoPLa310yo4gu5hKZn4G1xxD8",
             "techStack": [
                 "lua"
             ]
@@ -4365,6 +4468,7 @@
                     "projectCode": "https://arjunsalyan.github.io/gsoc19-report/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/p8HI1smaJEjeZVziPByixugdh45YsTskQ5_C5FEaHOaJWU9EACguzfLOMj1W6hitR0nNxqasxdhqvPu0_Do6XM1AAWcU3BgQ",
             "techStack": [
                 "tcl",
                 "c",
@@ -4402,6 +4506,7 @@
                     "projectCode": "https://github.com/MariaDB/server/pull/1378"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/oP9-qZX9f_PlWZ4JCJXjMLmx167iWoiLlIACXVPt51M7ppOhqvbTZQLPDN20oqbDfY8x1mKuTL164GlF_M3MOE4FOf37hg",
             "techStack": [
                 "mariadb",
                 "mysql",
@@ -4439,6 +4544,7 @@
                     "projectCode": "https://gist.github.com/V02460/3be8d8159c53ae969bf47ed0b34e7c91"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/BnZqcJ38WO6nVqFFhrajatwOmif_jfOzerd5K7KRFlQ5oPTV6TDgL8xmkApinqwrTynfmsZm7qO5L0EBpwMGd76NL2Pc06J3",
             "techStack": [
                 "python",
                 "javascript",
@@ -4458,6 +4564,7 @@
                     "projectCode": "https://gitlab.com/zanoni-mbdyn/mbdynfreecadgui/wikis/gsoc/2019-aditya"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/IKzkJT5Z0ejEdamDyC35N83DvtsBl5a7G5AVRg4-WlRca6IUDbqf1n3v7WpVMuqC3F65DY1KpIjIR-BgTU7Y3SRkOeZ8Ag",
             "techStack": [
                 " python",
                 "c++",
@@ -4505,6 +4612,7 @@
                     "projectCode": "https://blog.metabrainz.org/2019/08/26/gsoc-2019-recording-similarity-indexing-for-acousticbrainz/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/mzSaS_SlwCjm6BvcDGJ3qDxwPeyuT2mRhVxq2mY7ZasTNqFeoWHOZNMPJnFyfFIber2Ugd0RsoaoFeCb4x6ZDUuWtatPdss",
             "techStack": [
                 "python",
                 "perl",
@@ -4542,6 +4650,7 @@
                     "projectCode": "https://docs.google.com/document/d/1XsG29ZxBeDDHUeGODAViKNa3qcawRP42E_lRuxwF-f8/edit"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/JOV7wp6bHusKxnZmGCQ0P87vOeEJrM6TluUODzv6a74HsqOGL8XvAC49gw2-2jEjZnaws7WwASNTSsuAzL2JbR3_JfRVEEtW",
             "techStack": [
                 " java",
                 " javascript",
@@ -4609,6 +4718,7 @@
                     "projectCode": "https://www.mlpack.org/gsocblog/Jeffin2019Summary.html"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/IKV46CbackHxXISnw25cOwS8cyjH7uA-zfK9e6B7d-PzMzbuaNXqKfUtvf8EQZkYhn2Vktx3JG8fNXOHh57ER7839Z2j90s",
             "techStack": [
                 "c++"
             ]
@@ -4624,6 +4734,7 @@
                     "projectCode": "https://gist.github.com/aswinmprabhu/ee61a3c103422336a27cafaa99479865"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/gA-6fTpjFw-q2qgu9uogt_tFRyUmVDJI-36ynd91skmrB9kuL1rHP7Yvbzi4SU7YT6iuSu19bYtkcuWbDV5iN1ltQ6jZ1Q",
             "techStack": [
                 "golang",
                 " javascript",
@@ -4649,6 +4760,7 @@
                     "projectCode": "https://gist.github.com/maksudr/61cabe45df7316e7eca3c825a0cf4299"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/tVi2arz1wSGuftyHK1NkpIeie1tbz3lNTJxiHXS0TldjWfgCP95-JTckc-DW-7Uh0j3mRGJf_vDpf36dgFiwIlg3y5bhBXfp",
             "techStack": [
                 "php",
                 " javascript",
@@ -4746,6 +4858,7 @@
                     "projectCode": "https://gist.github.com/tanhengyeow/eaa3576e3aa333db7a7d86c3fde9ccd9"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/hw0xJzghAuDYtGhHZXSz5Kb2AwqLbNALv2NDc0iHQAtM-W--32K7Iyi5JHqcRyhUtwOeg5aORwgNLdhS0y_0y_u4Y0teisM",
             "techStack": [
                 "javascript",
                 "python",
@@ -4783,6 +4896,7 @@
                     "projectCode": "https://musescore.org/en/node/293702"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/FFzEOCwKB-fHtI9Lf-rzqtB2aJsVpiFU0AcvU97eSg_-gul3Etg-N0ylQ-SboUHanqYBFlnkbX4qEzhS5K_rScYzmbPnCA",
             "techStack": [
                 "qt",
                 "c++",
@@ -4806,6 +4920,7 @@
                     "projectCode": "https://docs.google.com/document/d/1xs6VeQJLevliCIZH8wM3WNuqVks5WPER4FGitBFZnGk/edit#heading=h.r1vs07blxev3"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/xkQpjOYnfflUCW0ZdNDW3IMvyVB_1oq7XFWCDkxCkEwihelm44Wg5veYUpVFBkVn1UqedlNvAUpIJzg0ak_hB5l3PUXMJw",
             "techStack": [
                 "java",
                 "android",
@@ -4885,6 +5000,7 @@
                     "projectCode": "https://cannin.github.io/ihop-reach/reports/2019-08-26-gsoc-final-report.html"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/QI40R6jS_ydBNHJUCWyC7Y4oYNPyb8X-PK9BuIbkFRuZT7zqMZ_URW6badRhpUGwVq_MW8ONsHmOz58wQmsjeCODQttyQpE",
             "techStack": [
                 "java",
                 " javascript",
@@ -4910,6 +5026,7 @@
                     "projectCode": "https://medium.com/@hlpr98/the-final-report-of-gsoc-2019-9438df33d6a?source=friends_link&sk=e3286a1e49561f29d71322160419cece"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/If7agN15BzK0z92hh7hkJkpQ9V19Xgn0DTuqQxC6Df1DeOpfGK_6t4tSJJu08-AnOqn1NsoYFn9xx1xMXJwGSVs3y53Mmyc",
             "techStack": [
                 "c",
                 "lua"
@@ -4938,6 +5055,7 @@
                     "projectCode": "https://gist.github.com/shekhar-sharma/c847462847d4535cea6f90e612f42f1b"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/PXmFpc9huYwQ7dPtTUuAHE3wiw1Kd4hEZwm25wicFtGaF5Yy5pxhyoDvqnLr243AP-CVZ-9_CQJmnoimUsFjjNomUYYJoHTm",
             "techStack": [
                 "c",
                 "linux kernel"
@@ -5062,6 +5180,7 @@
                     "projectCode": "https://josephwillard.github.io/updates-and-the-end-of-gsoc.html"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/63vMgiDtngwU6h8iJ1zGWIt5FAP-NkAZz5SlcLTz6ZbCmAXV4fTkKBmJBNQ8X5YuQTUsjWSJcHXkOKemnEmjAYGofvL0iaM",
             "techStack": [
                 "python",
                 " javascript",
@@ -5080,6 +5199,7 @@
                     "projectCode": "https://github.com/nvaccess/nvda/wiki/Improving-the-console-experience-with-UI-Automation"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/vshxzqucqRMsrm3JO2aMBFNHe3dgE_5u9ncHb6OP-zZxJBJwbFUVvsHxtr-Nob9r7x2pY8_0kP_2nuRI_H8APyTlmqrq2UU",
             "techStack": [
                 "python",
                 "c++",
@@ -5147,6 +5267,7 @@
                     "projectCode": "https://aquatiko.github.io/blog/2019-08/final-report-gsoc19-the-curtain-falls/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/l9E2G8RxvGNISREucJzMvJmcKRKCegGoffH02nIbU8JPVrMLiWI5vQREwPXXN2aJ091FAJ2ZYjgQKOeX6LbEpAiZ6iLUhhU",
             "techStack": [
                 "python",
                 "julia",
@@ -5189,6 +5310,7 @@
                     "projectCode": "https://blog.biojs.net/2019-08-20-gsoc-wrap-up/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/cD3E71Z-2ZR0AbVjAPUJH_OmqgY_bvYBvI1nrQPXvgFuRsQlqn78MUZs25iZokgZCBMknwyB8S9ugAqouhz7n-EmFMQKZuI",
             "techStack": [
                 "python",
                 "perl",
@@ -5238,6 +5360,7 @@
                     "projectCode": "https://github.com/3dmol/3Dmol.js/pull/423/files#diff-c6aa741fec7ca98965f45a569edbd358"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/aJqa8LcJ1_w3sGOzGHCd2akm14VQgEkSQ7dGXBujsWa3Ahf2GCqpAlyTIxLE_JbVkX12oJPbETRw92UYpCx_kkFhZaT4oOGY",
             "techStack": [
                 "c++",
                 "python",
@@ -5263,6 +5386,7 @@
                     "projectCode": "https://forum.opendatakit.org/t/gsoc-2019-strategy-to-increase-devices-supported-and-validate-application-behavior/21657"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/7h3l-fCdh1-5UYr-X5JyVB2kbH--nb3MA5HrkO9TLzW2gW4lG9vZoT3x4PdEIRzvY8KJnsgDRAQQj6tIcBjSqqMiAKVwLE8",
             "techStack": [
                 "android",
                 " java"
@@ -5291,6 +5415,7 @@
                     "projectCode": "https://docs.google.com/document/d/160NCBkETLffOoOMiHNJVGr8DjfceKvhMR3lOa5i_6ck/edit?usp=sharing"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/kQLSjMwPziB3nt3PEtaUmn1g_VmjCPaZ8C6BfBryznl4__-s5eXUEi6xHEId9wgy_z1lYD8nSJTTiBDl6A3fz_rs8wZ94Hj7",
             "techStack": [
                 " java",
                 " javascript"
@@ -5343,6 +5468,7 @@
                     "projectCode": "https://lennonwoo.github.io/2019/08/20/Support-creating-Windows-packages-for-ROS2-in-Bloom-in-GSoC-2019/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/oohuvlKD6UyHcnszrpdIv8YrtE0PMRNbiI0_ZUsZek2uZbABGEq94PY_qrWNjdD19veksLKivAmnVPE74nn_LeFas6YkeaSi",
             "techStack": [
                 "ros",
                 "gazebo",
@@ -5433,6 +5559,7 @@
                     "projectCode": "https://gist.github.com/ekaratarakis/326add7b585831a5aafc95508946a1a6"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/6Gd_zWAxQNU8wFZcOYQEZL8uvfytUvzZBKjCuV3VgHaBe2-Ciqa7Mx6g-Wpcaq_9LF5UdyS6GzHYwmxeUTAk3Pkk5WmsngE",
             "techStack": [
                 "python",
                 " javascript",
@@ -5494,6 +5621,7 @@
                     "projectCode": "https://gist.github.com/Saafke/8e5b58488383d1b1fda47b3dbd141f9f"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/uCLgwJR92qeoEnvrpHG-RJNTJv3vdoSjSRozvTSvSm3NBL1rGHU08Laz6DJYEHTJVErcHr_s2c5V5CMoJHJb-WUkJR4xl-k",
             "techStack": [
                 "c++",
                 "python"
@@ -5576,6 +5704,7 @@
                     "projectCode": "https://tenas97blog.wordpress.com/2019/08/23/gsoc-2019-final-evaluation/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/2ylqFRJSV0eX1qLyqENcX1lh9eIxWeMspFXRztmBUXqlCumW6e-KIrHUTFxb9IoIlHM9tOykHjKsIyVWctG91saL8xxV1Iw",
             "techStack": [
                 " java",
                 " javascript",
@@ -5619,6 +5748,7 @@
                     "projectCode": "https://wiki.openstreetmap.org/wiki/JOSM/Plugins/AutoBound"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/oUaOD9PhHnuqx_f6A19yZ8SS009aXK8pu9jabMHgfj743eV7aBNQW4QU-N6CujiGRlCn8NqofIQ9xDMpLXsxUifZe62crZ8",
             "techStack": [
                 " javascript",
                 "ruby",
@@ -5643,6 +5773,7 @@
                     "projectCode": "https://docs.google.com/document/d/1MDKUEO7XvGEMwK2S09CIj97TDFofGuEJPMB7hqcGrdk/edit?usp=sharing"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/qyuDO0jI8Jg16pB-Q4X7wIENitGwbI5DbKEAqQefT5v9Jn9ef8zbALDPJRYb6Adaq9cgoZayGGy64Z0LPJ_g_MwHFuzxHw",
             "techStack": [
                 "python",
                 "django",
@@ -5680,6 +5811,7 @@
                     "projectCode": "https://medium.com/@jamesjay4199/google-summer-of-code-19-at-oppia-foundation-ce18bf34eb8c"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/jq4RtxaUJf4KNYhzaFpeRqkS6MywFFMIpCeQ4FxZduX6HkpS_qQZasGfF1HXy3D9AhFyjQEb378xoolb77sOYdumqt3ASQ",
             "techStack": [
                 "angularjs",
                 "python",
@@ -5735,6 +5867,7 @@
                     "projectCode": "https://ismailsunni.github.io/GSoC-2019/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/mRD1Sk-OwAqcVs5463UyeF8axORU30CHgFn7glcc4PwlkZjHYK5CQzcghvZN-GkV8iUJrNKOoueZ_TpF9zzqm1Wpe8tMp0Y",
             "techStack": [
                 " c/c++",
                 " python",
@@ -5820,6 +5953,7 @@
                     "projectCode": "https://propersam.hashnode.dev/my-gsoc19-final-report-summary-of-my-contributions-to-defectdojo-project-cjzpiaz5f001byis1rkz087d0"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/joqYzorJYmk7ExK6e7slnjMU4J7L3BPL37bJHfSYuGQY1J13FEq3UAaWQspcteOzTs0iLhkbOw8N-XK3G08LtorzEOWd73PR",
             "techStack": [
                 "python",
                 " java",
@@ -5844,6 +5978,7 @@
                     "projectCode": "https://gist.github.com/saurabh1969/3e464dd88d4ec845262287c785c04eeb"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/ft-wsdxanl7H5hkHy4orh_KYDfb5ot_iG33ULKQDe1uAwgdvz8BWhVrZCXjCV1apMWONeR9GXfDQAXbReEtudUS0T3ozu4Qo",
             "techStack": [
                 "r",
                 "python",
@@ -5869,6 +6004,7 @@
                     "projectCode": "https://gist.github.com/Kartikeya99/5556466af0054c1db26b4e64854d920a"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/W1fNZAcW3tY889wl-2Vf1SsYfMFpSao-DkdbDHq4zH0-P4nTDrACfxDs9sBFMg_xSjT94mkjOGSk669XeT-MOv5mPFvdbT8",
             "techStack": [
                 "mysql",
                 "postgresql",
@@ -5894,6 +6030,7 @@
                     "projectCode": "https://github.com/Erbenos/pmdastatsd/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/HkjNLg9g2IG4VT4V2MPgFsahV_OMI8X9wwkaVDw05DvZRCRY9S5iQt7Pg_NjGF3Dt1D08RkObkPTHNoFomCZphXDFgviJQ",
             "techStack": [
                 "python",
                 "redis",
@@ -5949,6 +6086,7 @@
                     "projectCode": "https://github.com/PolyMathOrg/Polyglot"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/FSpW1AwPWBw1VUwu6z04O1QSaHZJycF2o7CKP9UPiCqIgKoZBe4OPVZv9FOKJlRVLW0-1v7X7rGzjqqUt5qDuBm58ZBgPo4",
             "techStack": [
                 "pharo",
                 "squeak",
@@ -5974,6 +6112,7 @@
                     "projectCode": "https://medium.com/@ikurimohit/gsoc-pma-final-submission-b93d47c53f5f"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/Wq_8lTz8wRoLBFRD8DIpd2eZ3v8sPMpbXdYzAVB81164FR3EAVdFyd2bHZO-o_rfqCCL6I86HqtoKfE8_ivTPlrAR_ZiRSw",
             "techStack": [
                 "php",
                 "mysql",
@@ -6005,6 +6144,7 @@
                     "projectCode": "https://millancv.github.io/GSoC-3/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/Q08yPcZDaQs6rikvlpCqDRIJkeSeE-gjQH2W_fYaKCzZGuwxdfDLR5ZS7E1fhZqLQnPyHDEdd9aUt8v63om7A3XlyW86QF8",
             "techStack": [
                 "python 3",
                 "gtk",
@@ -6041,6 +6181,7 @@
                     "projectCode": "https://gist.github.com/yosrym93/4058413fa7ad708d95fd713c47fbb9aa"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/gFNhIawUGT-7yWMkyou7ndkF2WC3_6UqGhi7uBLOGQprdHa2CM0e0z-GJo3pnqL-lCewhebKpMtTQc8EX-HsJMd4eSt7cTk",
             "techStack": [
                 "postgresql",
                 "sql",
@@ -6065,6 +6206,7 @@
                     "projectCode": "https://gist.github.com/ImmortalRabbit/3b03f9f66cafe149244355e14a5e51ff"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/YxgGJuUQMFtGopt--uoqDIeEK0EyNbNw_nIFql5oy90oF1a7MnS8d07_3KHazE_JiKj2KRPuqD5exiMzAIZ3EDuj75NhMQ",
             "techStack": [
                 "python 3",
                 "arduino",
@@ -6148,6 +6290,7 @@
                     "projectCode": "https://gist.github.com/namangupta01/2b99894a5bbfa12d599561651daaf8a1"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/A6P-lfLdDq8a8agYOQsnbqZOQNgnNL35ep8wWugdCDOkyIzGQooWcl9RZISB2fQwJ6OWl-4K8zRwU1vb5jEwle_lpbF84VA",
             "techStack": [
                 "ruby on rails",
                 "javascript",
@@ -6166,6 +6309,7 @@
                     "projectCode": "https://git.purrdata.net/aayushsurana98/purr-data/commits/ascii-art-to-purr-data-diagram"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/fwKct6GegM_IJGef6fi2vaE51QLuJkg3yktGzKsGBpBHJONs5ambLdFiGE-kKgFMUDzKS7JU2wuJ1uA07B7iI5qp4lOZb0Pd",
             "techStack": [
                 "javascript",
                 "node.js",
@@ -6358,6 +6502,7 @@
                     "projectCode": "https://github.com/vipulgupta2048/mygsoc"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/chJQjJtIP-opgbHO1uXHk5jMuHkTKSzhmVqetvXInITIZU0YZFw71FbNFY6IE5Hu0Uw9fNDUwZk3cawKx3nVSTkh5B6Fud4",
             "techStack": [
                 "python"
             ]
@@ -6385,6 +6530,7 @@
                     "projectCode": "https://lists.nongnu.org/archive/html/qemu-devel/2019-08/msg05369.html"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/riRYMyDiz7j5sctciZoVvtI9aprScPs0RWhoTZS8_bgo4vdFbyv_utk4a3_UJ7Okb9xuXG55pe5nXh7YfbHd7KxLItB4rA",
             "techStack": [
                 "linux",
                 "kvm",
@@ -6577,6 +6723,7 @@
                     "projectCode": "https://docs.google.com/document/d/1JpgOs703X47XPiGdoRwj1mVzVyYfykFO79_OeTZd8LM/edit?usp=sharing"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/tKh96WKf3BnRBHOnwf6mvV8FcyjHN3VzRuuVdZCJBuOG0iwcLyk1vD5qrjUG0dRKiaDM2FIqGBO1qHWpl8pFA4AJgrLUZAE",
             "techStack": [
                 "r-project",
                 "c",
@@ -6602,6 +6749,7 @@
                     "projectCode": "https://reactos.org/blogs/gsoc-2019-file-search-final-report"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/Trh9HIPJdu5QEhDic0CQCEGMJ-yBSe1LIv2Er-bQUDG2GJtkK7Qo9p6Rj-kUD5Ac6UeSTbxHvXq-LsDdHDkpd_howECsfw4",
             "techStack": [
                 "c",
                 "c++",
@@ -6627,6 +6775,7 @@
                     "projectCode": "https://gist.github.com/dojutsu-user/16e429173de35a5aced04b1f44f07321"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/dxmLB1HdWrLEFqmDRqfrowj1IT2LLhw33n4yI4HN7vJ0mSoW4O9kYdz3jOudzlf7XdDXtKS8Js2VDNDkzRuWNtdcNMnn5oAs",
             "techStack": [
                 "python",
                 "django",
@@ -6729,6 +6878,7 @@
                     "projectCode": "https://github.com/shaheenkdr/GSoC2019"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/Dj3aLIy8DmWCPMhcm214nqk1jXkDow6UfBJTWh8QgBoKcUr_hkwxQuXAmaVcT-l2Npnqpdxl3Dr18LmHgVaGMVJ4K1F6Xg",
             "techStack": [
                 "nlp",
                 "python",
@@ -6802,6 +6952,7 @@
                     "projectCode": "https://medium.com/@nikhilbansal3456/gsoc-2019-final-report-of-robocomp-v-rep-integration-5442bfc6d3d3?source=friends_link&sk=849ff22ec790129a5bcfdb2f1df65d7b"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/dzkYxL2owF30ELoH93SX5hOEHgspeLSp_tIF99ZIRJgVgvXNVEbxM5nkU30BF0T2lbGtI4X817ZxFsjF-mpeGKgxJgxQOWI",
             "techStack": [
                 " python",
                 "c++11",
@@ -6905,6 +7056,7 @@
                     "projectCode": "https://gist.github.com/rudrankriyam/5bd73eb04545b7a201ca539dbd6aa1f2"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/eSIVDf57Y0jHvA2IzwVMJCGSfKeDik9t_fIveKQ3sHk-2VHr4L4YZFGPB_2b4G0Dv0tkDbFo20VGnwVr9ICeXwx1_7fa1H4v",
             "techStack": [
                 " javascript",
                 "node.js",
@@ -6942,6 +7094,7 @@
                     "projectCode": "https://medium.com/my-gsoc-2019-journey/gsoc-2019-posix-compliance-74571990c32a"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/BR1i1LqWHxGxhzoP6uRnUCFQaWnERmLIoj8AV-TUIlABDh_Js73TI22Ent6i6TlaHQo8ozpZ9XKl0cgSPNdebO7DVgpH2w",
             "techStack": [
                 "c/c++",
                 " python",
@@ -6985,6 +7138,7 @@
                     "projectCode": "https://nakul9597.github.io/My-Blog/gsoc/final_report"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/wq12tsnjBS_pVqBQxN8pAnGCjCova5ba-AqPcqQXPGysLWybtnYU4kh9R9palQnp_Xl2zOUViq0Ff_CSe39ixjFlmI5V4kk",
             "techStack": [
                 "ruby",
                 "c"
@@ -7007,6 +7161,7 @@
                     "projectCode": "https://uditgulati.github.io/blog/open-source/2019/08/25/gsoc-work-product.html"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/kFvQCOeX0CvmrLWs59bRiZgH0-a4wehdUOrnsV51yktt5uvb1JA6rfr97xZx9g54wNAiCDnmQujpHIspp-9SdDqaWG37lkU",
             "techStack": [
                 "ruby",
                 "c/c++",
@@ -7044,6 +7199,7 @@
                     "projectCode": "https://github.com/ChamanAgrawal/GSoC19_Report"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/ksMoyUCFsOE7EfJ0P-Gpb6IIQS1l9F5xFa6wP-1JdnvveDifFC4iDxGDEdmeyGRUFVxgPSTTQMCjNQr-k5xrf2waFDLLVIg",
             "techStack": [
                 "python",
                 "cython"
@@ -7066,6 +7222,7 @@
                     "projectCode": "https://gist.github.com/moulikcipherX/6e0cef3b0f9401d2dcf5874f5f748c3b"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/b_Zs0WDCb82zhyL83B1zm4yR4bUymA-vGn_1yNL7aJgANPNcjfmYNOx9IZZF719ewIMxm_winyYNC8ANforLd5f0RdQkcBA",
             "techStack": [
                 "scala",
                 " apache spark",
@@ -7085,6 +7242,7 @@
                     "projectCode": "https://rmpr.github.io/gsoc_2019/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/0oX9GhEafCO5UYzVEscSycdPMt0LU6jwBKBwlR7vA9OuXm6zHqq0w5pz1uWpRR8wYj6Eeccot-vs3cXg0quuXkl431MC_fQ",
             "techStack": [
                 "c",
                 "smb"
@@ -7257,6 +7415,7 @@
                     "projectCode": "https://github.com/scorelab/GSoC/blob/master/GSoC-2019/Madhuri-VBMDAS.md"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/Ts7OrnpZv_excOP0GcZ2PUfD7DOy3I-t5d_QkOKiqJpFrlq7tbrbsolg3zjml1dMfkkXOtrvK1Vz1kLjSWcFliTyPS22dA",
             "techStack": [
                 "python",
                 "nodejs",
@@ -7287,6 +7446,7 @@
                     "projectCode": "https://vyzigold-gsoc.blogspot.com/2019/08/google-summer-of-code-summary.html"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/e88g3tjSlpdMvdSaE-YA4gpkFF__HtxetmcmuxIzlEo3ojeZzZIcNtio4wohvi3oV_KSPKy_LpkB4VO7UHciPzwLyqLgUYxM",
             "techStack": [
                 " c/c++",
                 "sdl",
@@ -7306,6 +7466,7 @@
                     "projectCode": "https://medium.com/@theartful.ae/gsoc-19-with-shogun-project-review-c3cebddd1c"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/8MmgFQAqIhEypGaOKDrndJyLPP-IV6rBiyox_7M1r_7g1IVGX2W133VUZWDLt0v1CFPE5rBzgpkfmsPUyILSib7QI2EznPg",
             "techStack": [
                 "c++11",
                 "c++17",
@@ -7331,6 +7492,7 @@
                     "projectCode": "https://gitlab.com/sosy-lab/software/pqos-wrapper/wikis/Google-Summer-of-Code-2019-Report"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/OpV0RJKqyfp89NyKZ7i7ed835FkiU313uqhJF2sAeSSzLaVzMsVE2q01YluyNDM0BKUwcA5FlsAw9WcWQdLJKid2ZdpM922C",
             "techStack": [
                 "python",
                 "java",
@@ -7360,6 +7522,7 @@
                     "projectCode": "https://wiki.softwareheritage.org/wiki/Google_Summer_of_Code_2019/Web_UI_improvements"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/i1zOrzRf99E0PvNk9mEAsCQW45YRpr8Cro_SOyW9rEgQcSzVQJvXXKeBwfdTS_2SkyhETWBn0y41QjHHlF7JFlk76DMCUyc",
             "techStack": [
                 " python",
                 " javascript",
@@ -7421,6 +7584,7 @@
                     "projectCode": "https://github.com/spdx/tools-golang/wiki/Upgrade-Parser-Libraries-for-Golang-Tools,-Google-Summer-of-Code-2019"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/ary5QCryrPOw0I_XxxXxHADICkqT9PrECklaRW-vR0N-yeexkff7jiUjk599VVAIMV6RnqbJS8SGKIdNxaXHEBseTPoIetuU",
             "techStack": [
                 " python",
                 " java",
@@ -7445,6 +7609,7 @@
                     "projectCode": "https://lists.strace.io/pipermail/strace-devel/2019-August/009072.html"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/oQmW5PFv4LW3Jrd7lmFAHwxS8L7jmihj3jaFFlCEXTH-YEFf9f2aONCnVmps_9zXebOX5k1ICBbBdN8IRP-AEP-4ECnCnAE",
             "techStack": [
                 "linux",
                 "c",
@@ -7482,6 +7647,7 @@
                     "projectCode": "https://submitty.org/developer/google_summer_of_code/2019_XiaoHan"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/woT8VcTfo2zfwxjyp7qceCWPL1UMcXMfAf3KaUHQLTVvKXd1U97uZWAHXGpvlHjbdm4_coQWtC9_gsbEGImw_y6xoGT1LZo",
             "techStack": [
                 "php",
                 "python",
@@ -7543,6 +7709,7 @@
                     "projectCode": "https://github.com/llaske/sugarizer/pull/364"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/OVnqiZ_F2K7dBCd_3lX6TYVBlimRaGB_1R2Tcq88YJd0jf2F5sm4C850pxm8xlRnG6CjX8Y-Xjck4Z_6llXg3ZGnwsFbgng",
             "techStack": [
                 "python",
                 "javascript"
@@ -7559,6 +7726,7 @@
                     "projectCode": "https://docs.google.com/document/d/1aRQ4v91gzIgsiqC6Cqo1MBtqm8Q_rsDWcqbz7A9HfVY/edit?usp=sharing"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/H1sR5RiDjDKT3LP8zh9NARLyvbO4nevUIJdxgkMksTVKdK8ddmatLMaxRYJ0alXFUcT6C3tG9KJJio2vi6Yqqiso11jjEA",
             "techStack": [
                 "swift",
                 "programming languages",
@@ -7578,6 +7746,7 @@
                     "projectCode": "https://docs.google.com/document/d/1SZm44g-9Bo-xD2lDfXcxb8bpzYjewGyK7bVyOYj5Gqs/edit"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/NL3uO0wTiqSBr3tOrVopQPOlLEc7mXvJOUlC94MaJhOr3uxu1Bonlkbl8Vz1u5-0P5p65KgJHHQNdzCubRVv3ZPR0brS0A",
             "techStack": [
                 "verilog",
                 "fpga",
@@ -7649,6 +7818,7 @@
                     "projectCode": "https://jmig5776.github.io/gsoc-final-report"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/LgMVgXcHqxk0zJlN3rMnEWI5iARsDQfs1MnsP2yQCtC4aixoz-e35Dz7GKzIaTSW4a_Ra6jfzZ3KEv9ka1f5oevuqqHRHsc",
             "techStack": [
                 "python"
             ]
@@ -7670,6 +7840,7 @@
                     "projectCode": "https://github.com/synfig/synfig/pull/930"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/RZNk-BSZaDiO7zt6LMRaC_awDp_-8HAKDkoeAJY1Wazu0j4WXPY17xIJsPyzyVNxs3wjdnesf9z1445-5wnEbVCnRYcMY9E",
             "techStack": [
                 "c++",
                 "gtk",
@@ -7693,6 +7864,7 @@
                     "projectCode": "https://github.com/balabit/syslog-ng-gitbook/pull/68"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/VsYV9WTVudHONrXKTAIO9QM8Xv0q23uvgnyvguesXZoi4QXc0Z3H8vE-AjxRIhFLhlXZxgX_v-PvZ_MPr_JHGkKD7lu7BnI",
             "techStack": [
                 "c",
                 "python",
@@ -7820,6 +7992,7 @@
                     "projectCode": "https://github.com/Tahsin-Mayeesha/gsoc2019"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/dkb1oVsvGxxe1VZ2lVewyCRpYlpmaWmz8TnBxIZusTUy27A8fdnvWBR-siR18VEyM5TPsfEEBYozZ7YzM4lHxvB2Xkj4Qf8",
             "techStack": [
                 "machine learning",
                 "deep learning",
@@ -7935,6 +8108,7 @@
                     "projectCode": "https://gist.github.com/kangbreder/034f47e2e8015cee10b48b7c5f1b8df1"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/wgwknGY5XfV3kFTV453Mwbf4SKTK_uH0OipbX49C0V_R4iFI57EcguLUESvE3yIoxLNmWyr1A871IPcqVaaIDYuvTbdvblIi",
             "techStack": [
                 " java",
                 " c/c++"
@@ -7951,6 +8125,7 @@
                     "projectCode": "https://gist.github.com/diparthshah/2b3aa56d20fb43b72a0024839907b59a"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/_Ol--UayvdvAUvhHYRqcA8zVpL6mrSt70pZPWkks9uvxTHwwesYnulBEZDn6SdI5bSMDmjaYiN8SbT8q2pfyVwXB_dyXq7iL",
             "techStack": [
                 " javascript",
                 "scala"
@@ -8021,6 +8196,7 @@
                     "projectCode": "https://github.com/mahmood1994ha/RTFParallella"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/g6qaJ7sUUcK0Syl8zQxI0F9jS9ij76-Etz2i75Gjh-dmI2yOFZrjo4XaZo6zGL8zwKAGz8-49P4YpSWrg8-T0qPXaD1URD8",
             "techStack": [
                 "java",
                 "jakarta",
@@ -8063,6 +8239,7 @@
                     "projectCode": "https://git.gnunet.org/libmicrohttpd.git/?h=dev%2Fng0%2Fgsoc2019"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/XaD6OqQwVQBJAYONqYuByz6HStO2xvWGAf21-3zZ-6rNrTujES-tN_t5rxO3VKz0IAfIje_sie-vE-NNg4MmVxpho72OANM",
             "techStack": [
                 "operating systems"
             ]
@@ -8126,6 +8303,7 @@
                     "projectCode": "https://gist.github.com/sgtpepperpt/862e1f5428889b5686d0c51b625f5a91"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/STp7H6MmCyOgFt9MXaLKMZWYOaVXJ798aGecSsbWmoFRhLrNiKouNAjXa1tj9cWr2XLtHeL19pfa3Wf8GNT_xF33_qV_pI8",
             "techStack": [
                 "python",
                 "go",
@@ -8175,6 +8353,7 @@
                     "projectCode": "https://yuvaraj-anbarasan.github.io/gsoc-19/gsoc-work-report"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/5wCDXwOlQLdvE5gtFVD_kTor_cx7ZmPKcKAmirM1gl96hqiBteJlLhGojXLHz_2dbo1k4Fmqs0Xh6bCt2RipigrcUAjMTJ_G",
             "techStack": [
                 "java",
                 "jvm",
@@ -8266,6 +8445,7 @@
                     "projectCode": "https://github.com/johnnychen94/GSoC2019/blob/master/final_report.md"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/2HeHdpEtlBbPLRbngmxb1H_BdG-FTPBxGFtdksHxLMSQy-oU58TOTpg5lPIuv1giMnBS9Kx0yNKaWJJAUfrQxeqecfepFfI",
             "techStack": [
                 "julia"
             ]
@@ -8281,6 +8461,7 @@
                     "projectCode": "https://libreswan.org/wiki/Libreswan_Opportunistic_IPsec_using_LetsEncrypt"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/a4sx0S_eXmFrCaOpTU8xooFEQiy4oceqymlrT_TvCotG44D9ISG3M2wBV4srQLh6m6g8z41fyvkihXT36gnT-uqs9B2njA",
             "techStack": [
                 "c",
                 "nss",
@@ -8336,6 +8517,7 @@
                     "projectCode": "https://github.com/marceloschmitt1/linux/tree/GSOC_2019_ad7292"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/azhWrzCym-2A9W7RO7X_fDhOzokg91Ahx4qQdNeVm0FkmlLiDmhHnkhvzt39rkr4rjXEhkHN0dN5bD7SYVKp9DPExjzRo8k",
             "techStack": [
                 "c",
                 "c++",
@@ -8432,6 +8614,7 @@
                     "projectCode": "https://gist.github.com/DylanRobson/5353817529f37d477f3b480dc0166343"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/KiXU4e-ZWDNASfWRF6EfbHVu4Vy5a4kUU-_tMQG0WNoote7ui5M8iGx8eSDHfhc3UVleFXsF8GUuGyycba-sG7wJMm1diA",
             "techStack": [
                 "android",
                 "spring",
@@ -8487,6 +8670,7 @@
                     "projectCode": "https://blog.netbsd.org/tnf/entry/porting_wine_to_amd64_on1"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/LZ_M7yVifwYhSKT-5sK2zCwx7BPrfX_qWCrCWg9l2idu4y3bQ1h9xl_oOlYFfSfUfsgq7KUEy7A23jKT9QrhH1gVmvQWbfg",
             "techStack": [
                 "c",
                 "bsd",
@@ -8522,6 +8706,7 @@
                     "projectCode": "https://ns-3-tcp-validation.github.io"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/0gauWjPKGD6u82PeY1qawKWOhLUuwThSPAnV56neFojKcE8Eyj_Z4pVXqbqrEHD7bPcrqFeUxOPoUx6_2-Y3FrHftdXhlj1j",
             "techStack": [
                 " c/c++",
                 " python"
@@ -8556,6 +8741,7 @@
                     "projectCode": "https://gist.github.com/antoniogamiz/16ed2317e67e4e0b546aa47639a73e32"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/d5e0eT02pNSKppd0CTbEJ0Xk11l06hzop8Rsed1FGMr_Rc4jGxgD9dyZ4k6y_Yayy_df4aL5nTup0p5swm_vxWVvx80rthY",
             "techStack": [
                 "c",
                 "perl",
@@ -8575,6 +8761,7 @@
                     "projectCode": "https://gist.github.com/VineethReddy02/159283bd368a710379eaf0f6bd60a40a"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/CDCWRn_sSTfImUye81t4X_YbRsxATMEc51Qh-qQQvXacneOo1yS2rebLOHxilMHmOsTy_BSVTebPjc7tBniCuPqe_JVu4Q",
             "techStack": [
                 "postgresql",
                 "kubernetes",
@@ -8684,6 +8871,7 @@
                     "projectCode": "https://github.com/processing/p5.js/blob/master/developer_docs/project_wrapups/orenshoham_gsoc_2019.md"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/5-EXXLdwGnVNSr3cTMaOuUcKI3zDQctapKqv6gc3q6r_F8eT7VYLtn19a8xFPOs_puX35MPUUYLXDCNcIX_zeU3y98i8-2o",
             "techStack": [
                 "java",
                 " javascript",
@@ -8751,6 +8939,7 @@
                     "projectCode": "https://dave2s.github.io/gsoc/posts/final_report.html"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/I8zZGZn_fju6XGEvjh26vvTIi69ybn2gVZvlwiM6ctb3W4AgjsrPdcJFR_pJ7Xw6sj3ZPAvzHRfskXnJ7zzeMUT4Ed3lYr0",
             "techStack": [
                 "java",
                 "lwjgl",
@@ -8776,6 +8965,7 @@
                     "projectCode": "https://gist.github.com/algomaster99/6ee25328dd6aa5c86476b0fa5d4a85b9"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/i2lYWOG1iVw9H16hfCqxcgjdZ_mbaiJQgC8UW1lOz4cMr012o-iUbHO5ZCqfzzGdFJnHGUwOnJ9PoGIDJtpxbtnzWQiaIAQ",
             "techStack": [
                 "typescript",
                 "d3",
@@ -8788,6 +8978,7 @@
             "title": "The Wine Project",
             "orgLink": "https://www.winehq.org/",
             "projects": [],
+            "orgLogoUrl": "//lh3.googleusercontent.com/9GFTq7oxLzt8HpwzA0Ayw8h1VmBa4IY376kSM_e7CBGCZvrfVC0QXyxqD4kuFlWc7eDG8LrIiClGGnr0TVxOSm2cJ60XEO8",
             "techStack": [
                 "c",
                 " opengl",
@@ -8800,6 +8991,7 @@
             "title": "TimVideos.us",
             "orgLink": "https://code.timvideos.us",
             "projects": [],
+            "orgLogoUrl": "//lh3.googleusercontent.com/EXMCUdZcXXqwFdusWDrQjwkUxDqRcXVzLPvWsjxJdUGKny0uSSvP361cqSqBESHB0zcKHwfQFtzxt71nUqy21b2jEfykUJ0",
             "techStack": [
                 "python",
                 "verilog",
@@ -8819,6 +9011,7 @@
                     "projectCode": "https://github.com/tokio-rs/console"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/tc2ZKsdIMEMLaSli3YedP89ReiJyAsAakvW47gqZ-cW2MdnxI_1hyKH-vuw9BxYZTutH86kFKynVo4OuxgSBmh19fEsaIm8",
             "techStack": [
                 "tokio_rs",
                 "rust"
@@ -8835,6 +9028,7 @@
                     "projectCode": "https://github.com/fayaxa/TF-K8s-Guide"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/SQUdOZ93rgGC711-JWBbLWzxGbC7Pds8BTbQw4rwEEVEw-RfAxF-T0dRwu7uG4SzQLb6pKh4zuXmSZvZMEHJPTKuaTv4_yY",
             "techStack": [
                 "linux",
                 "kubernetes",
@@ -8854,6 +9048,7 @@
                     "projectCode": "https://github.com/ucscXena/ucsc-xena-client/wiki/Update-GDC-Data-Ingestion-Pipeline-and-Run"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/hlRCFceco1ZLWp8ayUER9wOB1bqQKT8k5afqeeXRS8otR1s34Gds8dRajI3_W3-DIadsncH4GmxzV6AomZZiipAiKnsM9hA",
             "techStack": [
                 "javascript",
                 " python",
@@ -8920,6 +9115,7 @@
                     "projectCode": "https://skantes.github.io/GSoC-2019/"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/KOhScNmGlPPjfzPOKK-1CdoSkV3GLXRWNMFL-4MXspc-gk3BJsi_mSRyABJbZTcegem9Lxqc7uwxoontOPa-vyZkgVBqiTI",
             "techStack": [
                 "c",
                 "opengl",
@@ -8945,6 +9141,7 @@
                     "projectCode": "https://medium.com/webpack/summer-2019-with-webpack-5cd3ddbc9a05"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/9Rwynj5utSFbVqwgvnlnBksmPDtcIyBmtEWLqCOoX7s2-sfzI3DvB90IAcqc3Vl0o17J7rf8Hqvo-aEwCdqgmSYv3JASh74",
             "techStack": [
                 "javascript",
                 "web development",
@@ -9024,6 +9221,7 @@
                     "projectCode": "https://medium.com/@ujjwalagrawal17/wikiedu-dashboard-android-app-google-summer-of-code-2019-f9adf8a69c86"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/4BmdeifShwbZJGTV6Hp0AowUcOPP7E_izi5jZ8loQWnFwYI0y5DZ-TvQYj0ZrE1epN2NonxAHdW0P9XS8xVaOFfX1rVTIsk",
             "techStack": [
                 "php",
                 "javascript",
@@ -9049,6 +9247,7 @@
                     "projectCode": "https://gitlab.freedesktop.org/ekhaled1836/mesa/snippets/658"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/HdZCQKAqynpI_fe1K2xMP0WJfo0LSLmCeyvmWsYdqzHcIQjj55lJMuazBuW6xoYypLmH8gmOuncXPuk8-80Rn4g0wQrSerA",
             "techStack": [
                 "opengl",
                 "vulkan",
@@ -9080,6 +9279,7 @@
                     "projectCode": "https://trac.xapian.org/wiki/GSoC2019/TextExtraction"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/QadW6Km9hXexwfFMBBxZRaj8x6YoV6l_K5eogppS6CcBqLUX_QbobWvBtABeF8X1nmhx6EbvZsLHVzpDRXPI8HQAJDrx3GQ",
             "techStack": [
                 "c++",
                 "unicode",
@@ -9098,6 +9298,7 @@
                     "projectCode": "https://gist.github.com/bzm3r/10e24f8a544edd17a50897ae29857e51"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/R82mVJvjn_-GopH6nXsXTMa2Wap1X9NiuFt5_Lxuz0bkiLSfJVWm4MF1n9IdahgVW4gmt6XTNLV9p8dh09a9xOHm4Rddnww",
             "techStack": [
                 "rust",
                 "swift"
@@ -9126,6 +9327,7 @@
                     "projectCode": "https://gsoc-prosody-2019.blogspot.com/2019/08/final-gsoc-report-prosody-plugin.html"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/K1O6B4aNqSj8W2ER_ufbxRy-cHMdK18-EHb30QQeLl8z3YWHZscE5EpoWCkTOVCEQX8iUSbB-WzbrsyWDepc9-laWoM3ivg",
             "techStack": [
                 "asynchronous i/o",
                 "lua",
@@ -9138,6 +9340,7 @@
             "title": "xpra",
             "orgLink": "https://xpra.org/",
             "projects": [],
+            "orgLogoUrl": "//lh3.googleusercontent.com/k38GCG9ciaHGs8DvBHo711fnQJgBcQbGuHuJrtJ6DNJEBMg54H1wd5ACeMTIf_WRgWw_UgkD_6VZc-xcPea-3Axvt_0vyP0",
             "techStack": [
                 "python",
                 "javascript",
@@ -9167,6 +9370,7 @@
                     "projectCode": "https://www.xwiki.org/xwiki/bin/view/Blog/My%20GSOC19%20Experience./"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/qtTkLcxUTotLzKIQGFGd4lGf2cmlDKzOHGT3y4Jlr76ixSUVRpR2NsQytQK-KFjqKfXs6YeQhZJvv83XQjHxKvvtiOt5_G0",
             "techStack": [
                 "java",
                 " javascript",
@@ -9282,6 +9486,7 @@
                     "projectCode": "https://gist.github.com/aero31aero/3b6b469688b56741d060737eb455e12e"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/Tg-LaSd5zr30IaNHaxudJOhrzYc_leHZwOw3GfuqZWZrO8v3zP9SNr1yqJIPa8M9j2exhtkUFKdZx6MhQuKiZwSe2uX5BJ4",
             "techStack": [
                 "python",
                 "react native",
@@ -9301,6 +9506,7 @@
                     "projectCode": "http://zynaddsubfx.sourceforge.net/GSoC2019.html"
                 }
             ],
+            "orgLogoUrl": "//lh3.googleusercontent.com/p7QK3Y5XvI87Zn_oqiI8iAtjp7lvHSIOArnAIfbhUQOR0HsP7dyWk-GXysodrPfYSpZETMrCMnid2-tHgykKz3PSPkuvcg",
             "techStack": [
                 " c/c++",
                 "ruby",
