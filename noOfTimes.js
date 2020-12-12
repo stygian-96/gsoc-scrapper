@@ -22,29 +22,52 @@ const getArrayofTitle = async() => {
     listYears.forEach( listYear => {
         let len = obj[`${listYear}`].length
         for(let i=0; i<len; i++){
-            list.push(obj[`${listYear}`][i].title)
+            list.push({
+                title: obj[`${listYear}`][i].title,
+                year: listYear.substring(4,)
+            })
         }
     })
-    list.sort()
+
+    function compare(a,b) {
+        if(a.title < b.title){
+            return -1
+        } else if(a.title > b.title){
+            return 1
+        }
+        return 0
+    }
+    list.sort( compare )
     let len = list.length
-    let match = list[0].trim().split(' ').join('').toLowerCase()
+    let match = list[0].title.trim().split(' ').join('').toLowerCase()
+    let year = list[0].year
     let count = 1
     const ob = {}
+    var yrList = [year]
     for(let i=1;i<len;i++){
-        let str = list[i].trim().split(' ').join('').toLowerCase()
+        let str = list[i].title.trim().split(' ').join('').toLowerCase()
+        let yr = list[i].year
         if(str === match){
             count++
+            yrList.push(yr)
         } else{
-            ob[`${match}`] = count
+            ob[`${match}`] = {
+                count,
+                yrList: yrList
+            }
             match = str
             count = 1
+            yrList= [yr]
         }
     }
     listYears.forEach(listYear => {
         let len = obj[`${listYear}`].length
         for(var i=0 ;i<len;i++){
             let titleTrim = obj[`${listYear}`][i].title.trim().split(' ').join('').toLowerCase()
-            obj[`${listYear}`][i][`noOfTimes`] = ob[titleTrim]
+            if(ob[titleTrim] != null){
+                obj[`${listYear}`][i][`noOfTimes`] = ob[titleTrim].count
+                obj[`${listYear}`][i][`yrList`] = ob[titleTrim].yrList
+            }
         }
     })
     console.log(obj)
